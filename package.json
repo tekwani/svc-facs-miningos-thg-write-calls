@@ -1,6 +1,6 @@
 {
   "name": "svc-facs-miningos-thg-write-calls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "svc facility for miningos thing write calls",
   "keywords": [
     "tether"
@@ -19,7 +19,8 @@
     "node": ">=20"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "src/"
   ],
   "type": "commonjs",  
   "main": "index.js",
